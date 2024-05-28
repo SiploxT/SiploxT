@@ -1,6 +1,7 @@
 # ヾ(•ω•`)o || About Me:
 A future JavaScript developer who likes programming yet do not have enough time for it. </br>
-This lonely boy is always keeping his eyes on an unreachable dream. </br> </br>
+This lonely boy is always keeping his eyes on an unreachable dream. </br>
+
 おやすみ. </br>
 </br>
 wawa.
