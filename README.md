@@ -1,11 +1,10 @@
-# ヾ(•ω•`)o || About Me:
-A future developer who likes programming yet do not have enough time for it. </br>
-This lonely boy is always keeping his eyes on an unreachable dream. </br>
+# (≧∇≦)ﾉ || About Me:
+- A future Telecommunications Engineer who loves programming.</br></br>
 
-おやすみ. </br>
+
+«This lonely boy is always keeping his eyes on an unreachable dream.» </br></br>
 
 # 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=siploxT&theme=dracula&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=siploxT&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+- ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) — Currently Learning </br>
+- ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) — Worked with it in UVigo </br>
+- ![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54) — Did side-projects (A Discord:tm: bot!)
